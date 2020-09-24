@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CsHLV40ESWGXdkPuuaJvux6XpkAaKFMw/xRlyjf49cpwdjsrOlMxdwwIC/Ooo/jWnsiT0bf2ZNLdgTBaPaQGZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nunes\\Desktop\\Guilherme\\Faculdade\\4° periodo\\h1\\TimeFutebol\\TimeFutebol\\TimeFutebol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nunes\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
